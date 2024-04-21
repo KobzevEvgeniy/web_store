@@ -1,0 +1,590 @@
+INFO 21-04-2024 18:13:59 autoreload Watching for file changes with StatReloader
+INFO 21-04-2024 18:14:01 basehttp "GET / HTTP/1.1" 200 2287
+INFO 21-04-2024 18:14:02 basehttp "GET /static/porcelain.png HTTP/1.1" 200 18827
+INFO 21-04-2024 18:14:09 basehttp "GET /products/list/ HTTP/1.1" 200 31352
+WARNING 21-04-2024 18:14:09 log Not Found: /media/default_image.png
+WARNING 21-04-2024 18:14:09 basehttp "GET /media/default_image.png HTTP/1.1" 404 2997
+INFO 21-04-2024 18:14:14 basehttp "GET /orders/list/ HTTP/1.1" 200 3172
+INFO 21-04-2024 18:14:17 basehttp "GET /orders/1/ HTTP/1.1" 200 2386
+INFO 21-04-2024 18:14:22 basehttp "GET /customers/list/ HTTP/1.1" 200 3351
+INFO 21-04-2024 18:14:25 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 21-04-2024 18:14:25 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3535
+INFO 21-04-2024 18:14:25 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+INFO 21-04-2024 18:14:25 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 21-04-2024 18:14:25 basehttp "GET /static/admin/css/base.css HTTP/1.1" 200 21544
+INFO 21-04-2024 18:14:25 basehttp "GET /static/admin/css/login.css HTTP/1.1" 200 958
+INFO 21-04-2024 18:14:25 basehttp "GET /static/css/styles.css HTTP/1.1" 200 41
+INFO 21-04-2024 18:14:25 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+INFO 21-04-2024 18:14:25 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 21-04-2024 18:14:25 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 21-04-2024 18:14:32 basehttp "GET /customers/list/ HTTP/1.1" 200 3351
+INFO 21-04-2024 18:14:33 basehttp "GET /orders/list/ HTTP/1.1" 200 3172
+INFO 21-04-2024 18:14:35 basehttp "GET /products/list/ HTTP/1.1" 200 31352
+WARNING 21-04-2024 18:14:35 log Not Found: /media/default_image.png
+WARNING 21-04-2024 18:14:35 basehttp "GET /media/default_image.png HTTP/1.1" 404 2997
+WARNING 21-04-2024 18:14:35 log Not Found: /media/default_image.png
+WARNING 21-04-2024 18:14:35 basehttp "GET /media/default_image.png HTTP/1.1" 404 2997
+INFO 21-04-2024 18:14:40 basehttp "GET /products/22/ HTTP/1.1" 200 2592
+WARNING 21-04-2024 18:14:40 log Not Found: /media/default_image.png
+WARNING 21-04-2024 18:14:40 basehttp "GET /media/default_image.png HTTP/1.1" 404 2997
+INFO 21-04-2024 18:15:05 basehttp "GET /products/list/ HTTP/1.1" 200 31352
+WARNING 21-04-2024 18:15:05 log Not Found: /media/default_image.png
+WARNING 21-04-2024 18:15:05 basehttp "GET /media/default_image.png HTTP/1.1" 404 2997
+WARNING 21-04-2024 18:15:05 log Not Found: /media/default_image.png
+WARNING 21-04-2024 18:15:05 basehttp "GET /media/default_image.png HTTP/1.1" 404 2997
+INFO 21-04-2024 18:15:06 basehttp "GET / HTTP/1.1" 200 2287
+INFO 21-04-2024 18:19:08 basehttp "GET / HTTP/1.1" 200 2308
+INFO 21-04-2024 18:19:08 basehttp "GET /static/porcelain.png HTTP/1.1" 304 0
+INFO 21-04-2024 18:19:09 basehttp "GET /products/list/ HTTP/1.1" 200 31373
+WARNING 21-04-2024 18:19:09 log Not Found: /media/default_image.png
+WARNING 21-04-2024 18:19:09 basehttp "GET /media/default_image.png HTTP/1.1" 404 2997
+WARNING 21-04-2024 18:19:09 log Not Found: /media/default_image.png
+WARNING 21-04-2024 18:19:09 basehttp "GET /media/default_image.png HTTP/1.1" 404 2997
+INFO 21-04-2024 18:19:10 basehttp "GET /orders/list/ HTTP/1.1" 200 3193
+INFO 21-04-2024 18:19:11 basehttp "GET /customers/list/ HTTP/1.1" 200 3372
+INFO 21-04-2024 18:19:12 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 21-04-2024 18:19:12 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3535
+INFO 21-04-2024 18:19:12 basehttp "GET /static/css/styles.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:19:27 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 200 3802
+INFO 21-04-2024 18:19:44 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3535
+INFO 21-04-2024 18:19:47 basehttp "GET /customers/2/ HTTP/1.1" 200 2478
+INFO 21-04-2024 18:20:41 basehttp "GET /customers/2/ HTTP/1.1" 200 2472
+INFO 21-04-2024 18:20:46 basehttp "GET / HTTP/1.1" 200 2302
+INFO 21-04-2024 18:26:11 autoreload C:\Users\Kobze\PycharmProjects\web_store\web_store\web_store\settings.py changed, reloading.
+INFO 21-04-2024 18:26:11 autoreload Watching for file changes with StatReloader
+INFO 21-04-2024 18:26:14 basehttp "GET / HTTP/1.1" 200 2303
+INFO 21-04-2024 18:26:14 basehttp "GET /static/porcelain.png HTTP/1.1" 304 0
+INFO 21-04-2024 18:26:20 basehttp "GET /products/list/ HTTP/1.1" 200 32367
+WARNING 21-04-2024 18:26:20 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:26:20 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:26:20 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:26:20 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:29:09 autoreload C:\Users\Kobze\PycharmProjects\web_store\web_store\products\models.py changed, reloading.
+INFO 21-04-2024 18:29:09 autoreload Watching for file changes with StatReloader
+INFO 21-04-2024 18:29:11 basehttp "GET /products/list/ HTTP/1.1" 200 32367
+WARNING 21-04-2024 18:29:11 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:29:11 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:29:11 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:29:11 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:30:50 autoreload C:\Users\Kobze\PycharmProjects\web_store\web_store\products\models.py changed, reloading.
+INFO 21-04-2024 18:30:51 autoreload Watching for file changes with StatReloader
+INFO 21-04-2024 18:30:52 basehttp "GET /products/list/ HTTP/1.1" 200 32367
+WARNING 21-04-2024 18:30:52 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:30:52 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:30:53 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:30:53 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:30:53 basehttp "GET /static/porcelain.png HTTP/1.1" 304 0
+INFO 21-04-2024 18:32:08 autoreload C:\Users\Kobze\PycharmProjects\web_store\web_store\products\models.py changed, reloading.
+INFO 21-04-2024 18:32:09 autoreload Watching for file changes with StatReloader
+INFO 21-04-2024 18:32:11 basehttp "GET /products/list/ HTTP/1.1" 200 32367
+WARNING 21-04-2024 18:32:11 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:32:11 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:32:11 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:32:11 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:32:43 autoreload Watching for file changes with StatReloader
+INFO 21-04-2024 18:32:45 basehttp "GET / HTTP/1.1" 200 2303
+INFO 21-04-2024 18:32:47 basehttp "GET /products/list/ HTTP/1.1" 200 32367
+WARNING 21-04-2024 18:32:47 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:32:47 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:32:47 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:32:47 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:32:52 basehttp "GET /products/1/ HTTP/1.1" 200 2599
+WARNING 21-04-2024 18:32:52 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:32:52 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:32:59 basehttp "GET /orders/list/ HTTP/1.1" 200 3187
+INFO 21-04-2024 18:32:59 basehttp "GET /customers/list/ HTTP/1.1" 200 3366
+INFO 21-04-2024 18:33:00 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 21-04-2024 18:33:00 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3535
+INFO 21-04-2024 18:33:00 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:33:00 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:33:00 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:33:00 basehttp "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:33:00 basehttp "GET /static/css/styles.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:33:00 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:33:00 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 21-04-2024 18:33:00 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 21-04-2024 18:34:12 basehttp "GET / HTTP/1.1" 200 2303
+INFO 21-04-2024 18:35:46 basehttp "GET / HTTP/1.1" 200 2214
+INFO 21-04-2024 18:35:51 basehttp "GET /products/list/ HTTP/1.1" 200 32278
+WARNING 21-04-2024 18:35:51 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:35:51 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:35:51 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:35:51 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:41:26 basehttp "GET /products/list/ HTTP/1.1" 200 32277
+WARNING 21-04-2024 18:41:26 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:41:26 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:41:26 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:41:26 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:41:28 basehttp "GET /products/list/ HTTP/1.1" 200 32277
+WARNING 21-04-2024 18:41:28 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:41:28 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:41:28 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:41:28 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:41:29 basehttp "GET /orders/list/ HTTP/1.1" 200 3097
+INFO 21-04-2024 18:41:31 basehttp "GET /customers/list/ HTTP/1.1" 200 3276
+INFO 21-04-2024 18:41:31 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 21-04-2024 18:41:31 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3535
+INFO 21-04-2024 18:41:31 basehttp "GET /static/css/styles.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:41:40 basehttp "GET /products/list/ HTTP/1.1" 200 32277
+WARNING 21-04-2024 18:41:40 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:41:40 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:41:40 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:41:40 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:45:30 basehttp "GET /products/list/ HTTP/1.1" 200 32608
+WARNING 21-04-2024 18:45:30 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:45:30 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:45:30 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:45:30 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:46:54 basehttp "GET /products/list/ HTTP/1.1" 200 32664
+WARNING 21-04-2024 18:46:54 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:46:54 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:46:54 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:46:54 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:48:22 basehttp "GET /products/list/ HTTP/1.1" 200 32735
+WARNING 21-04-2024 18:48:22 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:48:22 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:48:22 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:48:22 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:50:41 basehttp "GET /products/list/ HTTP/1.1" 200 32277
+WARNING 21-04-2024 18:50:41 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:50:41 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:50:41 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:50:41 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:50:43 basehttp "GET /products/list/ HTTP/1.1" 200 32277
+WARNING 21-04-2024 18:50:43 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:50:43 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:50:43 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:50:43 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:50:44 basehttp "GET /orders/list/ HTTP/1.1" 200 3097
+INFO 21-04-2024 18:50:47 basehttp "GET /orders/1/ HTTP/1.1" 200 2311
+INFO 21-04-2024 18:50:54 basehttp "GET /orders/customer-orders/10 HTTP/1.1" 200 2278
+INFO 21-04-2024 18:50:56 basehttp "GET /products/list/ HTTP/1.1" 200 32277
+WARNING 21-04-2024 18:50:56 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:50:56 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:50:56 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:50:56 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:51:04 basehttp "GET /orders/list/ HTTP/1.1" 200 3097
+INFO 21-04-2024 18:51:06 basehttp "GET /customers/list/ HTTP/1.1" 200 3276
+INFO 21-04-2024 18:51:12 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 21-04-2024 18:51:12 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3535
+INFO 21-04-2024 18:51:12 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:51:12 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:51:12 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:51:12 basehttp "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:51:12 basehttp "GET /static/css/styles.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:51:12 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:51:12 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 21-04-2024 18:51:12 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 21-04-2024 18:52:49 basehttp "GET / HTTP/1.1" 200 2213
+INFO 21-04-2024 18:52:51 basehttp "GET /products/list/ HTTP/1.1" 200 32277
+WARNING 21-04-2024 18:52:51 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:52:51 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+WARNING 21-04-2024 18:52:51 log Not Found: /web_store/media/default_image.png
+WARNING 21-04-2024 18:52:51 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 404 3037
+INFO 21-04-2024 18:52:52 basehttp "GET /orders/list/ HTTP/1.1" 200 3097
+INFO 21-04-2024 18:52:53 basehttp "GET /customers/list/ HTTP/1.1" 200 3276
+INFO 21-04-2024 18:52:55 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 21-04-2024 18:52:55 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3535
+INFO 21-04-2024 18:53:01 basehttp "GET / HTTP/1.1" 200 2213
+INFO 21-04-2024 18:54:12 autoreload Watching for file changes with StatReloader
+INFO 21-04-2024 18:54:14 basehttp "GET / HTTP/1.1" 200 2213
+INFO 21-04-2024 18:54:16 basehttp "GET /products/list/ HTTP/1.1" 200 32277
+INFO 21-04-2024 18:54:16 basehttp "GET /web_store/media/default_image.png HTTP/1.1" 200 44643
+INFO 21-04-2024 18:54:50 basehttp "GET /products/list/ HTTP/1.1" 200 32277
+INFO 21-04-2024 18:54:51 basehttp "GET /orders/list/ HTTP/1.1" 200 3097
+INFO 21-04-2024 18:54:52 basehttp "GET /orders/1/ HTTP/1.1" 200 2311
+INFO 21-04-2024 18:54:54 basehttp "GET /orders/list/ HTTP/1.1" 200 3097
+INFO 21-04-2024 18:54:56 basehttp "GET /customers/list/ HTTP/1.1" 200 3276
+INFO 21-04-2024 18:54:59 basehttp "GET /customers/6/ HTTP/1.1" 200 2375
+INFO 21-04-2024 18:58:31 autoreload Watching for file changes with StatReloader
+INFO 21-04-2024 18:58:33 basehttp "GET / HTTP/1.1" 200 2213
+INFO 21-04-2024 18:58:35 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 21-04-2024 18:58:35 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3535
+INFO 21-04-2024 18:58:35 basehttp "GET /static/css/styles.css HTTP/1.1" 304 0
+INFO 21-04-2024 18:58:51 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 21-04-2024 18:58:51 basehttp "GET /admin/ HTTP/1.1" 200 7968
+INFO 21-04-2024 18:58:51 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 21-04-2024 18:58:51 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 21-04-2024 18:58:51 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 21-04-2024 18:59:05 basehttp "GET /admin/orders/order/ HTTP/1.1" 200 22397
+INFO 21-04-2024 18:59:05 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 200 6811
+INFO 21-04-2024 18:59:05 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 21-04-2024 18:59:05 basehttp "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 21-04-2024 18:59:05 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+INFO 21-04-2024 18:59:05 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+INFO 21-04-2024 18:59:05 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 18:59:05 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 21-04-2024 18:59:05 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 21-04-2024 18:59:05 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 21-04-2024 18:59:05 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 21-04-2024 18:59:05 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 21-04-2024 18:59:05 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 21-04-2024 18:59:05 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 21-04-2024 18:59:05 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 21-04-2024 18:59:37 basehttp "GET /admin/orders/order/add/ HTTP/1.1" 200 18179
+INFO 21-04-2024 18:59:37 basehttp "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15492
+INFO 21-04-2024 18:59:37 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 21-04-2024 18:59:37 basehttp "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+INFO 21-04-2024 18:59:37 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+INFO 21-04-2024 18:59:37 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 18:59:37 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 21-04-2024 18:59:37 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 200 11800
+INFO 21-04-2024 18:59:37 basehttp "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+INFO 21-04-2024 18:59:37 basehttp "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+INFO 21-04-2024 18:59:37 basehttp "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+ERROR 21-04-2024 19:00:09 log Internal Server Error: /admin/products/product/add/
+Traceback (most recent call last):
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 837, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\forms\models.py", line 652, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\forms\models.py", line 332, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (images) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 1839, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (images) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 21-04-2024 19:00:09 basehttp "GET /admin/products/product/add/?_to_field=id&_popup=1 HTTP/1.1" 500 148392
+INFO 21-04-2024 19:00:15 basehttp "GET /admin/customers/customer/7/change/?_to_field=id&_popup=1 HTTP/1.1" 200 6941
+INFO 21-04-2024 19:00:15 basehttp "GET /static/admin/js/collapse.js HTTP/1.1" 200 1803
+INFO 21-04-2024 19:00:15 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 19:00:28 basehttp "POST /admin/customers/customer/7/change/?_to_field=id&_popup=1 HTTP/1.1" 200 7236
+INFO 21-04-2024 19:00:28 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 19:00:39 basehttp "POST /admin/customers/customer/7/change/?_to_field=id&_popup=1 HTTP/1.1" 200 7235
+INFO 21-04-2024 19:00:39 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 19:00:49 basehttp "POST /admin/customers/customer/7/change/?_to_field=id&_popup=1 HTTP/1.1" 200 450
+INFO 21-04-2024 19:00:49 basehttp "GET /static/admin/js/popup_response.js HTTP/1.1" 200 551
+INFO 21-04-2024 19:01:07 basehttp "POST /admin/orders/order/add/ HTTP/1.1" 302 0
+INFO 21-04-2024 19:01:07 basehttp "GET /admin/orders/order/ HTTP/1.1" 200 23097
+INFO 21-04-2024 19:01:07 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 19:01:07 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 21-04-2024 19:01:32 basehttp "GET / HTTP/1.1" 200 2213
+INFO 21-04-2024 19:01:34 basehttp "GET /orders/list/ HTTP/1.1" 200 3294
+INFO 21-04-2024 19:01:41 basehttp "GET /orders/customer-orders/7 HTTP/1.1" 200 2499
+INFO 21-04-2024 19:01:54 basehttp "GET /admin/ HTTP/1.1" 200 8724
+INFO 21-04-2024 19:02:21 basehttp "GET /admin/customers/customer/add/ HTTP/1.1" 200 12307
+INFO 21-04-2024 19:02:21 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 19:02:34 basehttp "POST /admin/customers/customer/add/ HTTP/1.1" 200 12622
+INFO 21-04-2024 19:02:34 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 19:02:48 basehttp "POST /admin/customers/customer/add/ HTTP/1.1" 302 0
+INFO 21-04-2024 19:02:48 basehttp "GET /admin/customers/customer/ HTTP/1.1" 200 18382
+INFO 21-04-2024 19:02:48 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 19:03:04 basehttp "GET /admin/customers/customer/?registration_date__gte=2024-04-14&registration_date__lt=2024-04-22 HTTP/1.1" 200 19868
+INFO 21-04-2024 19:03:04 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 19:03:08 basehttp "GET /admin/customers/customer/?registration_date__gte=2024-04-21&registration_date__lt=2024-04-22 HTTP/1.1" 200 19868
+INFO 21-04-2024 19:03:08 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 19:03:12 basehttp "GET /admin/products/product/ HTTP/1.1" 200 57179
+INFO 21-04-2024 19:03:12 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+ERROR 21-04-2024 19:03:28 log Internal Server Error: /admin/products/product/add/
+Traceback (most recent call last):
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 837, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\forms\models.py", line 652, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\forms\models.py", line 332, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (images) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 1839, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (images) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 21-04-2024 19:03:28 basehttp "GET /admin/products/product/add/ HTTP/1.1" 500 147415
+INFO 21-04-2024 19:05:35 autoreload C:\Users\Kobze\PycharmProjects\web_store\web_store\products\admin.py changed, reloading.
+INFO 21-04-2024 19:05:35 autoreload Watching for file changes with StatReloader
+INFO 21-04-2024 19:05:50 autoreload Watching for file changes with StatReloader
+INFO 21-04-2024 19:06:30 autoreload C:\Users\Kobze\PycharmProjects\web_store\web_store\products\admin.py changed, reloading.
+INFO 21-04-2024 19:06:31 autoreload Watching for file changes with StatReloader
+INFO 21-04-2024 19:06:34 basehttp "GET / HTTP/1.1" 200 2213
+INFO 21-04-2024 19:06:35 basehttp "GET /admin/ HTTP/1.1" 200 9131
+INFO 21-04-2024 19:06:35 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 21-04-2024 19:06:35 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 21-04-2024 19:06:35 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 21-04-2024 19:06:35 basehttp "GET /static/css/styles.css HTTP/1.1" 304 0
+INFO 21-04-2024 19:06:35 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 21-04-2024 19:06:35 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 21-04-2024 19:06:35 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+ERROR 21-04-2024 19:06:46 log Internal Server Error: /admin/products/product/add/
+Traceback (most recent call last):
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 837, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\forms\models.py", line 652, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\forms\models.py", line 332, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (images) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 1839, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (images) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 21-04-2024 19:06:46 basehttp "GET /admin/products/product/add/ HTTP/1.1" 500 147398
+INFO 21-04-2024 20:48:29 autoreload Watching for file changes with StatReloader
+INFO 21-04-2024 20:48:31 basehttp "GET / HTTP/1.1" 200 2213
+INFO 21-04-2024 20:48:33 basehttp "GET /admin/ HTTP/1.1" 200 9131
+INFO 21-04-2024 20:48:33 basehttp "GET /static/css/styles.css HTTP/1.1" 304 0
+INFO 21-04-2024 20:48:33 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO 21-04-2024 20:48:33 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 21-04-2024 20:48:33 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 21-04-2024 20:48:33 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 21-04-2024 20:48:33 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:48:33 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:48:33 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 21-04-2024 20:48:33 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 21-04-2024 20:48:33 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+ERROR 21-04-2024 20:48:39 log Internal Server Error: /admin/products/product/add/
+Traceback (most recent call last):
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 837, in get_form
+    return modelform_factory(self.model, **defaults)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\forms\models.py", line 652, in modelform_factory
+    return type(form)(class_name, (form,), form_class_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\forms\models.py", line 332, in __new__
+    raise FieldError(message)
+django.core.exceptions.FieldError: Unknown field(s) (images) specified for Product
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 716, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 1945, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 1804, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 1839, in _changeform_view
+    ModelForm = self.get_form(
+                ^^^^^^^^^^^^^^
+  File "C:\Users\Kobze\PycharmProjects\web_store\venv\Lib\site-packages\django\contrib\admin\options.py", line 839, in get_form
+    raise FieldError(
+django.core.exceptions.FieldError: Unknown field(s) (images) specified for Product. Check fields/fieldsets/exclude attributes of class ProductAdmin.
+ERROR 21-04-2024 20:48:39 basehttp "GET /admin/products/product/add/ HTTP/1.1" 500 147398
+INFO 21-04-2024 20:53:37 basehttp "GET /admin/ HTTP/1.1" 200 9131
+INFO 21-04-2024 20:53:45 basehttp "GET /admin/auth/group/add/ HTTP/1.1" 200 14679
+INFO 21-04-2024 20:53:45 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:45 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 20:53:45 basehttp "GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:45 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:45 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:45 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:45 basehttp "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:45 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:45 basehttp "GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:45 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:45 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:45 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:45 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:45 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:46 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:46 basehttp "GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:46 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:46 basehttp "GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 304 0
+INFO 21-04-2024 20:53:46 basehttp "GET /static/admin/img/icon-unknown.svg HTTP/1.1" 304 0
+INFO 21-04-2024 20:54:13 basehttp "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 21-04-2024 20:54:13 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 11117
+INFO 21-04-2024 20:54:13 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO 21-04-2024 20:54:13 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 20:54:13 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+INFO 21-04-2024 20:54:13 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO 21-04-2024 20:54:13 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 21-04-2024 20:54:26 basehttp "POST /admin/auth/group/ HTTP/1.1" 200 11831
+INFO 21-04-2024 20:54:26 basehttp "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 21-04-2024 20:54:36 basehttp "POST /admin/auth/group/ HTTP/1.1" 302 0
+INFO 21-04-2024 20:54:36 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 9521
+INFO 21-04-2024 20:54:36 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 20:54:38 basehttp "GET /admin/auth/group/add/ HTTP/1.1" 200 14679
+INFO 21-04-2024 20:54:38 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 20:54:55 basehttp "POST /admin/auth/group/add/ HTTP/1.1" 302 0
+INFO 21-04-2024 20:54:55 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 11105
+INFO 21-04-2024 20:54:55 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 20:55:01 basehttp "GET /admin/auth/group/add/ HTTP/1.1" 200 14679
+INFO 21-04-2024 20:55:01 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 20:55:08 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 13803
+INFO 21-04-2024 20:55:08 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 20:55:08 basehttp "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+INFO 21-04-2024 20:55:08 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 21-04-2024 20:55:33 basehttp "GET /admin/auth/user/?groups__id__exact=2 HTTP/1.1" 200 12274
+INFO 21-04-2024 20:55:33 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 20:55:38 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 10892
+INFO 21-04-2024 20:55:39 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 20:55:41 basehttp "GET /admin/auth/group/2/change/ HTTP/1.1" 200 15211
+INFO 21-04-2024 20:55:41 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 20:56:02 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 13803
+INFO 21-04-2024 20:56:02 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 20:56:19 basehttp "GET /admin/auth/ HTTP/1.1" 200 5843
+INFO 21-04-2024 20:56:21 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 10892
+INFO 21-04-2024 20:56:21 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 20:56:26 basehttp "GET /admin/auth/group/2/change/ HTTP/1.1" 200 15211
+INFO 21-04-2024 20:56:26 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 20:56:34 basehttp "POST /admin/logout/ HTTP/1.1" 200 2976
+INFO 21-04-2024 20:56:38 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 21-04-2024 20:56:38 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3535
+INFO 21-04-2024 20:56:38 basehttp "GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO 21-04-2024 20:56:42 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 21-04-2024 20:56:42 basehttp "GET /admin/ HTTP/1.1" 200 10180
+INFO 21-04-2024 20:56:42 basehttp "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 21-04-2024 20:56:59 basehttp "GET /admin/auth/group/2/change/ HTTP/1.1" 200 15211
+INFO 21-04-2024 20:56:59 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 21-04-2024 21:04:19 autoreload Watching for file changes with StatReloader
